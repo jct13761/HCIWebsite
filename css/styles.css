@@ -620,6 +620,11 @@ progress {
     display: inline-block;
 }
 
+.list-inline-item-link {
+    display: inline-block;
+    margin-bottom: -40px;
+}
+
 .list-inline-item:not(:last-child) {
     margin-right: 0.5rem;
 }
