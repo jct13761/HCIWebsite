@@ -11046,7 +11046,7 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview>a>.post-title {
-    font-size: 1.875rem;
+    /* font-size: 1.875rem; */
     margin-top: 1.875rem;
     margin-bottom: 0.625rem;
 }
@@ -11069,6 +11069,6 @@ header.masthead .post-heading .meta a {
 
 @media (min-width: 992px) {
     .post-preview>a>.post-title {
-        font-size: 2.25rem;
+        /* font-size: 2.25rem; */
     }
 }
