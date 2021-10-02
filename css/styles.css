@@ -616,8 +616,19 @@ progress {
     list-style: none;
 }
 
+.list-inline-citation {
+    padding-left: 0;
+    list-style: none;
+    margin-top: 40px;
+}
+
 .list-inline-item {
     display: inline-block;
+}
+
+.list-inline-item-citation {
+    display: inline-block;
+    margin-left: 40px;
 }
 
 .list-inline-item-link {
@@ -11071,4 +11082,15 @@ header.masthead .post-heading .meta a {
     /* .post-preview>a>.post-title {
         font-size: 2.25rem;
     } */
+}
+
+
+/* MY ADDED CSS */
+
+.inline-citation-number {
+    color: red;
+}
+
+dt {
+    font-weight: normal;
 }
