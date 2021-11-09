@@ -11094,3 +11094,11 @@ header.masthead .post-heading .meta a {
 dt {
     font-weight: normal;
 }
+
+.small-text {
+    font-size: 11pt;
+}
+
+.less-margin {
+    margin-bottom: -20px;
+}
